@@ -1,4 +1,4 @@
-# Valifation Form
+# Validation Form
 В состав формы входит валидация Имени, Почты, Телефона и Сайта/IP. Демо: [Форма](https://ablehope.github.io/validation-sprint-10/)
 
 ## Проект по темам Git и «командная строка»
